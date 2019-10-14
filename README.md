@@ -1,6 +1,6 @@
 # Kafka Producer Twitter
 
-In this Maven Application we have a Producer consuming tweets from Twitter, and producing messages and sending them to Kafka.
+In this Maven Application we have a Producer consuming tweets from Twitter, producing messages, and sending them to Kafka.
 
 The majority of the code of this app is based on what I learned from this course:
                                                     
